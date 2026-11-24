@@ -12,9 +12,10 @@ Repositorio destinado a la práctica y aprendizaje de tecnologías de desarrollo
 ## 📂 Estructura
 
 ```text
-📁 Practicas/
+📁 Practicas-de-Programacion/
+├── 📁 C#/
 ├── 📁 React/
-└── 📁 CSharp/
+├── 📄 README.md
 ```
 
 📌 Repositorio en constante actualización, con ejercicios y proyectos desarrollados durante el proceso de aprendizaje.
