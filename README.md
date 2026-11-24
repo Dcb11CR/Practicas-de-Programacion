@@ -9,9 +9,6 @@ Repositorio destinado a la práctica y aprendizaje de tecnologías de desarrollo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
 </p>
 
-- ⚛️ **React**
-- 🔷 **C#**
-
 ## 📂 Estructura
 
 ```text
