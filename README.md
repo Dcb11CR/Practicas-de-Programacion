@@ -5,8 +5,8 @@ Repositorio destinado a la práctica y aprendizaje de tecnologías de desarrollo
 ## 🛠️ Tecnologías
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
 </p>
 
 ## 📂 Estructura
